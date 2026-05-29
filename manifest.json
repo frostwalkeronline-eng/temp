@@ -1,6 +1,6 @@
 [
 	{
-		"guid": "d8e0dc8c-9d8e-4c72-a6f0-9a7f6a1c5a11",
+		"guid": "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
 		"name": "Secure Admin Plugin",
 		"description": "Whitelist-based admin command runner for Jellyfin",
 		"overview": "Allows safe execution of predefined diagnostic commands.",
@@ -10,7 +10,7 @@
 			{
 				"version": "1.0.0.0",
 				"changelog": "Initial release",
-				"targetAbi": "10.10.0.0",
+				"targetAbi": "10.11.0.0",
 				"sourceUrl": "https://github.com/frostwalkeronline-eng/temp/blob/main/publish.zip",
 				"checksum": "OPTIONAL_SHA256",
 				"timestamp": "2026-05-29T00:00:00Z"
