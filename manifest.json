@@ -11,7 +11,7 @@
 				"version": "1.0.0.0",
 				"changelog": "Initial release",
 				"targetAbi": "10.11.0.0",
-				"sourceUrl": "https://github.com/frostwalkeronline-eng/temp/blob/main/publish.zip",
+				"sourceUrl": "https://raw.githubusercontent.com/frostwalkeronline-eng/temp/refs/heads/main/publish.zip",
 				"checksum": "OPTIONAL_SHA256",
 				"timestamp": "2026-05-29T00:00:00Z"
 			}
